@@ -14,8 +14,6 @@
 - 🌱 Learning about <b> Machine Learning stuff</b>.
 - 🌟 Main languages: <b> JavaScript </b>.
   </br>
-- 🔭 Working on <b>Machine Learning</b> using <b>TensorflowJS</b>
-
 ## Social Media
 
   <div align=left>
