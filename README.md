@@ -4,7 +4,7 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <!--🖼️Likky-->
-<img src="https://i.imgur.com/OvK5vct.gif" height="300" width="2000">
+<!-- <img src="https://i.imgur.com/OvK5vct.gif" height="300" width="2000"> -->
 <div style="border:2px solid pink ;padding:36px">
 
 ## About me✨
@@ -83,4 +83,4 @@
 
 </h4>
 
-  <img src="https://i.imgur.com/Eq0p09D.gif" height="300" width="2000">
+<!--   <img src="https://i.imgur.com/Eq0p09D.gif" height="300" width="2000"> -->
