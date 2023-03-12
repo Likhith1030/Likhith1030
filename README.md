@@ -1,19 +1,20 @@
 <p align="center">
 <p align="center">
-<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+<img src="https://sdk.bitmoji.com/me/sticker/WSvVLScz2vVYGpeVAI6g~SATyVeig0bGqzyNqTVZDdc2tyKDke9Q0w/20066249.png?p=dD1zO2w9ZW4.v1&size=thumbnail" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <!--🖼️Likky-->
 <!-- <img src="https://i.imgur.com/OvK5vct.gif" height="300" width="2000"> -->
 <div style="border:2px solid pink ;padding:36px">
 
 ## About me✨
 
-- 💻I am a self taught <b>Full Stack Developer</b> and a <b>Machine Learning Developer</b>.
-- 📝 I have a strong interest in<b> Web Development</b>.
-- 🌱 Learning about <b> Machine Learning stuff</b>.
-- 🌟 Main languages: <b> JavaScript </b>.
+- I'm a Computer Science student with experience as a Web developer.
+- An engaging Web Developer, developed 10+ static websites with complete responsiveness.
+- Passionate about Frontend and Backend technologies.
+- Hard-working web developer with a flair for creating elegant solutions in the least amount of time.
+- I love to collab for designing interactive responsive websites.
   </br>
+
 ## Social Media
 
   <div align=left>
@@ -37,10 +38,10 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
+<img src="https://sdk.bitmoji.com/me/sticker/WSvVLScz2vVYGpeVAI6g~SATyVeig0bGqzyNqTVZDdc2tyKDke9Q0w/20055094.png?p=dD1zO2w9ZW4.v1&size=thumbnail"  width="200px" height="200px" style="margin-bottom:10px">
 <!--🖼️OCTOCAT-->
 <p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="200px" height="200px" style="margin-bottom:10px">
+<img src="https://i.imgur.com/YCw47Dm.gif">
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Likhith1030&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=Likhith1030&theme=merko&date_format=M%20j%5B%2C%20Y%5D" style="margin-bottom:10px">
 <p align="center">
@@ -58,12 +59,14 @@
 <p align="center">
 <!--🐱CAT-->
 <p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="200">
+<img src="https://sdk.bitmoji.com/me/sticker/WSvVLScz2vVYGpeVAI6g~SATyVeig0bGqzyNqTVZDdc2tyKDke9Q0w/20054900.png?p=dD1zO2w9ZW4.v1&size=thumbnail" width="200" height="200">
 <!--🤔INTERESTTITLE-->
 <p align="center">
 <img src="https://i.imgur.com/ozEwbHs.gif">
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
+
+<div align="center">
 
 ### 👨‍💻 Programming Languages
 
@@ -73,14 +76,14 @@
 <img style="margin-right: 20px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="160">
 <img style="margin-right: 20px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-
 ### 💻 Software and Tools
 
 <img style="margin-right: 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-
+</div>
 </h4>
 
-<!--   <img src="https://i.imgur.com/Eq0p09D.gif" height="300" width="2000"> -->
+<h4 align="center">
+<img src="https://sdk.bitmoji.com/me/sticker/WSvVLScz2vVYGpeVAI6g~SATyVeig0bGqzyNqTVZDdc2tyKDke9Q0w/20091002.png?p=dD1zO2w9ZW4.v1&size=thumbnail" width="200" height="200">
+</h4>
