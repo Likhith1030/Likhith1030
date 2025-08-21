@@ -61,7 +61,7 @@
   
   [![Email](https://img.shields.io/badge/Email-sailikhithbavisetti%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sailikhithbavisetti@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-likhithbavisetti-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likhithbavisetti/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-likhithbavisetti.vercel.app-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://likhithbavisetti.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-likky.vercel.app-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://likky.vercel.app)
   
 </div>
 
