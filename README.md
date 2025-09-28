@@ -55,7 +55,6 @@
 
 </div> -->
 
----
 <div align="center">
   <img src="https://likky.vercel.app/assets/img/cya.png" alt="Likhith Bavisetti" width="120" style="border-radius: 50%;"/>
   
