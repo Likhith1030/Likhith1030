@@ -3,7 +3,7 @@
 ### *Full Stack Developer | AI Enthusiast | Cloud Native Explorer*
 
 <p align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQEJBLfaJf7GeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1678620008658?e=1758758400&v=beta&t=fEbp6UDsDICoTL97NbWz6KnOqGV7roups_lAFvTvDVw" alt="Ritesh Banner" width="800">
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQEJBLfaJf7GeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1678620008658?e=1761782400&v=beta&t=vJNUvS69Pj4Noq28iC1u6vVfo4mI6kc_KQzVkfZDlxI" alt="Likhith Banner" width="800">
 </p>
 
 
@@ -41,19 +41,19 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=likhith1030&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)
 
-</div>
+</div> -->
 
 
-<div align="center">
+<!-- <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=likhith1030&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true)
 
-</div>
+</div> -->
 
 ---
 <div align="center">
