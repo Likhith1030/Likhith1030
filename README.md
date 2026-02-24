@@ -2,10 +2,6 @@
 # Hey there! I'm Likhith 👋 
 ### *Full Stack Developer | AI Enthusiast | Cloud Native Explorer*
 
-<p align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQEJBLfaJf7GeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1678620008658?e=1761782400&v=beta&t=vJNUvS69Pj4Noq28iC1u6vVfo4mI6kc_KQzVkfZDlxI" alt="Likhith Banner" width="800">
-</p>
-
 
 ## 🚀 What I know
 
