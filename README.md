@@ -45,11 +45,11 @@
 </div> -->
 
 
-<!-- <div align="center">
+<div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=likhith1030&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true)
 
-</div> -->
+</div> 
 
 <div align="center">
   <img src="https://likky.vercel.app/assets/img/cya.png" alt="Likhith Bavisetti" width="120" style="border-radius: 50%;"/>
