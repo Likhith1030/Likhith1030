@@ -1,6 +1,6 @@
 
 # Hey there! I'm Likhith 👋 
-### *Full Stack Developer | AI Enthusiast | Cloud Native Explorer*
+### *Full Stack AI Developer*
 
 
 ## 🚀 What I know
