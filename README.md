@@ -52,7 +52,6 @@
 </div> 
 
 <div align="center">
-  <img src="https://likky.vercel.app/assets/img/cya.png" alt="Likhith Bavisetti" width="120" style="border-radius: 50%;"/>
   
   [![Email](https://img.shields.io/badge/Email-sailikhithbavisetti%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sailikhithbavisetti@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-likhithbavisetti-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likhithbavisetti/)
