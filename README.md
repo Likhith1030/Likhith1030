@@ -6,30 +6,17 @@
 ## 🚀 What I know
 
 <p align="center">
-  <img src="https://likky.vercel.app/assets/img/skills/cpp.svg" alt="C++" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/python.svg" alt="Python" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/docker.svg" alt="Docker" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/html.svg" alt="HTML" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/react.svg" alt="React" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/nextjs.svg" alt="Next.js" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/jenkins.svg" alt="Jenkins" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/aws.svg" alt="AWS" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/firebase.svg" alt="Firebase" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/tableau.svg" alt="Tableau" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/kubernets.svg" alt="Kubernetes" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/github.svg" alt="Github" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/material-ui.svg" alt="Material-UI" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/nodejs.svg" alt="Node.js" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/java.svg" alt="Java" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/c.svg" alt="C" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/javascript.svg" alt="JavaScript" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/numpy.svg" alt="NumPy" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/pandas.svg" alt="Pandas" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/tensorflow.svg" alt="TensorFlow" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/bootstrap.svg" alt="Bootstrap" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/ubuntu-4.svg" alt="Ubuntu" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/vercel.svg" alt="Vercel" width="60" />
-  <img src="https://likky.vercel.app/assets/img/skills/git.svg" alt="Git" width="60" />
+  <img src="https://likhithbavisetti.com/assets/img/skills/python.svg" width="60" alt="Python" />
+  <img src="https://likhithbavisetti.com/assets/img/skills/docker.svg" width="60" alt="Docker" />
+  <img src="https://likhithbavisetti.com/assets/img/skills/react.svg" width="60" alt="React" />
+  <img src="https://likhithbavisetti.com/assets/img/skills/jenkins.svg" width="60" alt="Jenkins" />
+  <img src="https://likhithbavisetti.com/assets/img/skills/aws.svg" width="60" alt="AWS Bedrock" />
+  <img src="https://likhithbavisetti.com/assets/img/skills/kubernets.svg" width="60" alt="Kubernetes" />
+  <img src="https://likhithbavisetti.com/assets/img/skills/langchain.svg" width="60" alt="LangChain" />
+  <img src="https://likhithbavisetti.com/assets/img/skills/openai.svg" width="60" alt="OpenAI" />
+  <img src="https://likhithbavisetti.com/assets/img/skills/javascript.svg" width="60" alt="JavaScript" />
+  <img src="https://likhithbavisetti.com/assets/img/skills/ubuntu-4.svg" width="60" alt="Ubuntu" />
+  <img src="https://likhithbavisetti.com/assets/img/skills/git.svg" width="60" alt="Git" />
 </p>
 
 ---
